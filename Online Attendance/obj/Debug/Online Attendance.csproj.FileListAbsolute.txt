@@ -1,0 +1,7 @@
+C:\Users\suren\source\repos\Online Attendance\Online Attendance\bin\Debug\Online Attendance.exe.config
+C:\Users\suren\source\repos\Online Attendance\Online Attendance\bin\Debug\Online Attendance.exe
+C:\Users\suren\source\repos\Online Attendance\Online Attendance\bin\Debug\Online Attendance.pdb
+C:\Users\suren\source\repos\Online Attendance\Online Attendance\obj\Debug\Online Attendance.csprojAssemblyReference.cache
+C:\Users\suren\source\repos\Online Attendance\Online Attendance\obj\Debug\Online Attendance.csproj.CoreCompileInputs.cache
+C:\Users\suren\source\repos\Online Attendance\Online Attendance\obj\Debug\Online Attendance.exe
+C:\Users\suren\source\repos\Online Attendance\Online Attendance\obj\Debug\Online Attendance.pdb
